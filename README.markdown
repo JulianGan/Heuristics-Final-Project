@@ -2,7 +2,7 @@
 
 ![thumbnail](public/thumbnail.png)
 
-This game is implemented using a game template [an example of a completed game (Gomoku) using this template](https://github.com/wjmn/gomoku). 
+This game is implemented using a game template, [an example of another completed game (Gomoku) using this template](https://github.com/wjmn/gomoku). 
 
 # Developing
 
