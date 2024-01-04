@@ -2,7 +2,7 @@
 
 ![thumbnail](public/thumbnail.png)
 
-This is a blank game template implementing a simple counter to help you create your game for the Heuristic Problem Solving final project. You might want to also refer to [an example of a completed game (Gomoku) using this template](https://github.com/wjmn/gomoku). 
+This game is implemented using a game template [an example of a completed game (Gomoku) using this template](https://github.com/wjmn/gomoku). 
 
 # Developing
 
