@@ -1,7 +1,5 @@
 # Elm Game Template for the Dr Ecco Heuristic Problem Solving Website
 
-![thumbnail](public/thumbnail.png)
-
 This game is implemented using a game template, [an example of another completed game (Gomoku) using this template](https://github.com/wjmn/gomoku). 
 
 [link to class website](https://cims.nyu.edu/drecco2016/)
