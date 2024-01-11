@@ -4,6 +4,8 @@
 
 This game is implemented using a game template, [an example of another completed game (Gomoku) using this template](https://github.com/wjmn/gomoku). 
 
+[class website](https://cims.nyu.edu/drecco2016/)
+
 # Developing
 
 Make sure you have [Elm](https://elm-lang.org/) and [`create-elm-app`](https://github.com/halfzebra/create-elm-app) installed. 
