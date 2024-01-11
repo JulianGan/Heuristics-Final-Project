@@ -4,7 +4,7 @@
 
 This game is implemented using a game template, [an example of another completed game (Gomoku) using this template](https://github.com/wjmn/gomoku). 
 
-[class website](https://cims.nyu.edu/drecco2016/)
+[link to class website](https://cims.nyu.edu/drecco2016/)
 
 # Developing
 
